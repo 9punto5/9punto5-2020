@@ -1,0 +1,53 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+#app {
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+}
+
+.nav-link {
+    @apply font-bold text-white border-b-0;
+}
+
+.nav-link:hover {
+    @apply text-n5_indigo border-b border-n5_indigo;
+}
+
+.embed-container {
+    @apply relative h-0 max-w-full overflow-hidden;
+    padding-bottom: 56.25%;
+}
+
+.embed-iframe {
+    @apply absolute top-0 left-0 w-full h-full;
+}
+
+.button {
+    @apply font-bold px-8 py-3 rounded-full uppercase shadow-lg;
+}
+
+.button-pink {
+    @apply button bg-n5_pink text-white;
+}
+
+.button-pink:hover {
+    @apply bg-white text-n5_pink;
+}
+
+.button-indigo {
+    @apply button bg-n5_indigo text-black;
+}
+
+.button-indigo:hover {
+    @apply bg-black text-n5_indigo;
+}
+
+.input-text {
+    @apply py-3 px-4 w-full border rounded-full text-black outline-none
+}
