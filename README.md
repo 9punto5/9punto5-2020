@@ -1,6 +1,6 @@
 # 9punto5 / 2020
 
-9punto5 2020 website, using Vue + Tailwind ❤️
+9punto5 2020 website, using Laravel + Vue + Tailwind ❤️
 
 ## Project setup
 ```
