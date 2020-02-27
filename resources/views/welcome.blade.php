@@ -85,7 +85,7 @@
                 </div>
                 <div class="w-full md:w-1/2 text-white">
                     <h3 class="text-xl mb-4 text-n5_indigo font-bold">Te esperamos en Valdivia</h3>
-                    <p class="w-3/4">
+                    <p class="w-full md:w-3/4">
                         9punto5 es un evento e iniciativa sobre cómo debes afrontar el futuro del trabajo. Introducir tecnología a tu negocio, trabajo remoto, manejo de talento y automatización, son las bases para juntarnos cada año en Valdivia.
                     </p>
 
