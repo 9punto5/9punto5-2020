@@ -25,12 +25,12 @@
                     </p>
 
                     <div class="flex flex-col md:flex-row mt-12">
-                        <div class="w-full md:w-1/2 text-center mb-8 md:mb-0">
+                        <div class="w-full md:w-1/2 text-left md:text-center mb-8 md:mb-0">
                             <button class="button-pink" onclick="window.location.href='https://welcu.com/9punto5/9punto5-2020'">
                                 Tickets versión 2020
                             </button>
                         </div>
-                        <div class="w-full md:w-1/2 text-center">
+                        <div class="w-full md:w-1/2 text-left md:text-center">
                             <button class="button-indigo" onclick="window.location.href='https://vimeo.com/9punto5/videos'">
                                 Ver charlas versión 2019
                             </button>
