@@ -40437,11 +40437,13 @@ var staticRenderFns = [
               })
             ]),
             _vm._v(" "),
-            _c("h4", { staticClass: "font-bold text-2xl mt-8 mb-4" }, [
-              _vm._v("One more thing")
-            ]),
+            _c(
+              "h4",
+              { staticClass: "font-bold text-xl md:text-2xl mt-8 mb-4" },
+              [_vm._v("One more thing")]
+            ),
             _vm._v(" "),
-            _c("p", { staticClass: "text-2xl leading-normal mb-4" }, [
+            _c("p", { staticClass: "text-xl leading-normal mb-4" }, [
               _vm._v("\n                    Hoy "),
               _c("b", [_vm._v("el talento")]),
               _vm._v(
@@ -40457,15 +40459,19 @@ var staticRenderFns = [
               _vm._v(".\n                ")
             ]),
             _vm._v(" "),
-            _c("p", { staticClass: "text-2xl leading-normal mb-4" }, [
-              _vm._v("\n                    Queremos "),
-              _c("b", [_vm._v("ayudarte a ser un talento")]),
-              _vm._v(" y darte "),
-              _c("b", [_vm._v("acceso a nuevas posibilidades")]),
-              _vm._v(".\n                ")
-            ]),
+            _c(
+              "p",
+              { staticClass: "text-xl md:text-2xl leading-normal mb-4" },
+              [
+                _vm._v("\n                    Queremos "),
+                _c("b", [_vm._v("ayudarte a ser un talento")]),
+                _vm._v(" y darte "),
+                _c("b", [_vm._v("acceso a nuevas posibilidades")]),
+                _vm._v(".\n                ")
+              ]
+            ),
             _vm._v(" "),
-            _c("p", { staticClass: "text-2xl leading-normal" }, [
+            _c("p", { staticClass: "text-xl md:text-2xl leading-normal" }, [
               _vm._v(
                 "\n                    Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.\n                "
               )

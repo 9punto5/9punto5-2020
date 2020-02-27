@@ -10,17 +10,17 @@
                         <iframe class="embed-iframe" src="https://player.vimeo.com/video/390838158" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                     </div>
 
-                    <h4 class="font-bold text-2xl mt-8 mb-4">One more thing</h4>
+                    <h4 class="font-bold text-xl md:text-2xl mt-8 mb-4">One more thing</h4>
 
-                    <p class="text-2xl leading-normal mb-4">
+                    <p class="text-xl leading-normal mb-4">
                         Hoy <b>el talento</b> es un elemento central en las empresas, y para muchas se está volviendo algo <b>escaso</b>. Lo que significa que tienes ante ti una posibilidad real de <b>desarrollar tu carrera</b> y acceder a <b>nuevas oportunidades de trabajo</b>.
                     </p>
 
-                    <p class="text-2xl leading-normal mb-4">
+                    <p class="text-xl md:text-2xl leading-normal mb-4">
                         Queremos <b>ayudarte a ser un talento</b> y darte <b>acceso a nuevas posibilidades</b>.
                     </p>
 
-                    <p class="text-2xl leading-normal">
+                    <p class="text-xl md:text-2xl leading-normal">
                         Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.
                     </p>
 
