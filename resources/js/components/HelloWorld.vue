@@ -20,12 +20,12 @@
                         Queremos <b>ayudarte a ser un talento</b> y darte <b>acceso a nuevas posibilidades</b>.
                     </p>
 
-                    <p class="text-xl md:text-2xl leading-normal">
+                    <p class="text-xl md:text-2xl leading-normal mb-4">
                         Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.
                     </p>
 
                     <p class="text-xl md:text-2xl leading-normal">
-                        Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.
+                        Por último, nos vemos desde el <b class="underline">27 al 29 de Agosto</b> en Valdivia para una nueva versión de 9punto5.
                     </p>
 
                     <div class="flex flex-col md:flex-row mt-12">
