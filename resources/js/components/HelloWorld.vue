@@ -53,22 +53,22 @@
                 <h4 class="text-n5_pink text-xl font-bold">Algunas marcas que han confiado en 9punto5</h4>
 
                 <ul class="mt-4 mb-6 flex flex-col md:flex-row items-center">
-                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                    <li class="mr-0 md:mr-8">
                         <img :src="this.path + 'img/evernote.png'" alt="Evernote" width="160">
                     </li>
-                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
-                        <img :src="this.path + 'img/doist.png'" alt="Doist" width="160">
+                    <li class="mt-8 md:mt-0 mr-0 md:mr-8">
+                        <img :src="this.path + 'img/doist.png'" alt="Doist" width="130">
                     </li>
-                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                    <li class="mt-8 md:mt-0 mr-0 md:mr-8">
                         <img :src="this.path + 'img/google.png'" alt="Google Developers" width="160">
                     </li>
-                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                    <li class="mt-8 md:mt-0 mr-0 md:mr-8">
                         <img :src="this.path + 'img/walmart.png'" alt="Walmart Chile" width="160">
                     </li>
-                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                    <li class="mt-8 md:mt-0 mr-0 md:mr-8">
                         <img :src="this.path + 'img/cornershop.png'" alt="Cornershop" width="160">
                     </li>
-                    <li class="mt-4 md:mt-0">
+                    <li class="mt-8 md:mt-0">
                         <img :src="this.path + 'img/compara.png'" alt="Compara Online" width="160">
                     </li>
                 </ul>
