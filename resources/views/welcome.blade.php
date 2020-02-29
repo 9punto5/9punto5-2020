@@ -40,42 +40,42 @@
     </head>
     <body>
         <div id="app">
-            <header class="bg-n5_purple_light py-4 flex flex-row px-8 shadow-lg">
-                <h1 class="mr-8">
+            <header class="bg-n5_purple_light py-4 flex flex-col md:flex-row px-8 shadow-lg">
+                <h1 class="mr-0 md:mr-8 flex justify-center">
                     <a href="/">
                         <img src="{{ asset('img/9punto5.png') }}" alt="9punto5" height="40" class="h-12">
                     </a>
                 </h1>
-                <ul class="flex items-center">
-                    <li class="mr-4">
+                <ul class="flex flex-col md:flex-row items-center mt-6 md:mt-0">
+                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                         <a
                             target="_blank"
                             class="nav-link"
                             href="https://podcast.9punto5.cl"
                         >PODCAST</a>
                     </li>
-                    <li class="mr-4">
+                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                         <a
                             target="_blank"
                             class="nav-link"
                             href="https://blog.9punto5.cl"
                         >BLOG</a>
                     </li>
-                    <li class="mr-4">
+                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                         <a
                             target="_blank"
                             class="nav-link"
                             href="https://2016.9punto5.cl"
                         >2016</a>
                     </li>
-                    <li class="mr-4">
+                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                         <a
                             target="_blank"
                             class="nav-link"
                             href="https://2017.9punto5.cl"
                         >2017</a>
                     </li>
-                    <li class="mr-4">
+                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                         <a
                             target="_blank"
                             class="nav-link"
