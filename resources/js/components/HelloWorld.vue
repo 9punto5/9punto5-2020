@@ -12,12 +12,16 @@
 
                     <h4 class="font-bold text-xl md:text-2xl mt-8 mb-4">One more thing</h4>
 
-                    <p class="text-xl leading-normal mb-4">
+                    <p class="text-xl md:text-2xl leading-normal mb-4">
                         Hoy <b>el talento</b> es un elemento central en las empresas, y para muchas se está volviendo algo <b>escaso</b>. Lo que significa que tienes ante ti una posibilidad real de <b>desarrollar tu carrera</b> y acceder a <b>nuevas oportunidades de trabajo</b>.
                     </p>
 
                     <p class="text-xl md:text-2xl leading-normal mb-4">
                         Queremos <b>ayudarte a ser un talento</b> y darte <b>acceso a nuevas posibilidades</b>.
+                    </p>
+
+                    <p class="text-xl md:text-2xl leading-normal">
+                        Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.
                     </p>
 
                     <p class="text-xl md:text-2xl leading-normal">
@@ -74,7 +78,7 @@
                 </ul>
 
                 <p class="text-xl leading-normal text-black mb-4">
-                    ¿Te gustaría ser un auspiciador? Envíanos un mensaje para mostrarte lo que podemos lograr juntos.
+                    ¿Te gustaría ser un sponsor? Envíanos un mensaje para mostrarte lo que podemos lograr juntos.
                 </p>
 
                 <div class="w-full md:w-2/5">
