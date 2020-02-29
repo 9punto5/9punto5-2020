@@ -47,7 +47,33 @@
                 <p class="text-xl leading-normal text-black mb-4">
                     Desde el 2016, hemos tenido múltiples empresas apoyando nuestra misión a través de auspicios.<br>
                     Sin ellas, sería imposible la realización de esta conferencia.<br><br>
-                    9punto se nutre constantemente con estos apoyos y ha creado una comunidad de más de 3.000 personas apoyando el trabajo remoto.<br><br>
+                    9punto se nutre constantemente con estos apoyos y ha creado una comunidad de más de 3.000 personas apoyando el trabajo remoto.
+                </p>
+
+                <h4 class="text-n5_pink text-xl font-bold">Algunas marcas que han confiado en 9punto5</h4>
+
+                <ul class="mt-4 mb-6 flex flex-col md:flex-row items-center">
+                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                        <img :src="this.path + 'img/evernote.png'" alt="Evernote" width="160">
+                    </li>
+                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                        <img :src="this.path + 'img/doist.png'" alt="Doist" width="160">
+                    </li>
+                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                        <img :src="this.path + 'img/google.png'" alt="Google Developers" width="160">
+                    </li>
+                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                        <img :src="this.path + 'img/walmart.png'" alt="Walmart Chile" width="160">
+                    </li>
+                    <li class="mt-4 md:mt-0 mr-0 md:mr-8">
+                        <img :src="this.path + 'img/cornershop.png'" alt="Cornershop" width="160">
+                    </li>
+                    <li class="mt-4 md:mt-0">
+                        <img :src="this.path + 'img/compara.png'" alt="Compara Online" width="160">
+                    </li>
+                </ul>
+
+                <p class="text-xl leading-normal text-black mb-4">
                     ¿Te gustaría ser un auspiciador? Envíanos un mensaje para mostrarte lo que podemos lograr juntos.
                 </p>
 
@@ -101,6 +127,7 @@
             ValidationProvider,
             ValidationObserver
         },
+        props: ['path'],
         name: 'HelloWorld',
         data: function () {
             return {

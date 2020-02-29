@@ -89,7 +89,7 @@
                 </ul>
             </header>
             <div class="flex-1">
-                <helloworld />
+                <helloworld path="{{ asset('') }}"/>
             </div>
             <footer class="py-8 flex flex-col md:flex-row px-8 md:px-0" style="background: linear-gradient(180deg,#392172 0,#392172 .52%,#352e3b 100%)">
                 <div class="w-full md:w-1/2 pr-12 mb-4 md:mb-0">
