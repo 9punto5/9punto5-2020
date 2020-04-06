@@ -2032,6 +2032,36 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -2048,6 +2078,7 @@ Object(vee_validate__WEBPACK_IMPORTED_MODULE_0__["extend"])('email', _objectSpre
     ValidationProvider: vee_validate__WEBPACK_IMPORTED_MODULE_0__["ValidationProvider"],
     ValidationObserver: vee_validate__WEBPACK_IMPORTED_MODULE_0__["ValidationObserver"]
   },
+  props: ['path'],
   name: 'HelloWorld',
   data: function data() {
     return {
@@ -40206,6 +40237,82 @@ var render = function() {
           _vm._v(" "),
           _vm._m(1),
           _vm._v(" "),
+          _c("h4", { staticClass: "text-n5_pink text-xl font-bold" }, [
+            _vm._v("Algunas marcas que han confiado en 9punto5")
+          ]),
+          _vm._v(" "),
+          _c(
+            "ul",
+            { staticClass: "mt-4 mb-6 flex flex-col md:flex-row items-center" },
+            [
+              _c("li", { staticClass: "mr-0 md:mr-8" }, [
+                _c("img", {
+                  attrs: {
+                    src: this.path + "img/evernote.png",
+                    alt: "Evernote",
+                    width: "160"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mt-8 md:mt-0 mr-0 md:mr-8" }, [
+                _c("img", {
+                  attrs: {
+                    src: this.path + "img/doist.png",
+                    alt: "Doist",
+                    width: "130"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mt-8 md:mt-0 mr-0 md:mr-8" }, [
+                _c("img", {
+                  attrs: {
+                    src: this.path + "img/google.png",
+                    alt: "Google Developers",
+                    width: "160"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mt-8 md:mt-0 mr-0 md:mr-8" }, [
+                _c("img", {
+                  attrs: {
+                    src: this.path + "img/walmart.png",
+                    alt: "Walmart Chile",
+                    width: "160"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mt-8 md:mt-0 mr-0 md:mr-8" }, [
+                _c("img", {
+                  attrs: {
+                    src: this.path + "img/cornershop.png",
+                    alt: "Cornershop",
+                    width: "160"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mt-8 md:mt-0" }, [
+                _c("img", {
+                  attrs: {
+                    src: this.path + "img/compara.png",
+                    alt: "Compara Online",
+                    width: "160"
+                  }
+                })
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-xl leading-normal text-black mb-4" }, [
+            _vm._v(
+              "\n                ¿Te gustaría ser un sponsor? Envíanos un mensaje para mostrarte lo que podemos lograr juntos.\n            "
+            )
+          ]),
+          _vm._v(" "),
           _c(
             "div",
             { staticClass: "w-full md:w-2/5" },
@@ -40443,21 +40550,25 @@ var staticRenderFns = [
               [_vm._v("One more thing")]
             ),
             _vm._v(" "),
-            _c("p", { staticClass: "text-xl leading-normal mb-4" }, [
-              _vm._v("\n                    Hoy "),
-              _c("b", [_vm._v("el talento")]),
-              _vm._v(
-                " es un elemento central en las empresas, y para muchas se está volviendo algo "
-              ),
-              _c("b", [_vm._v("escaso")]),
-              _vm._v(
-                ". Lo que significa que tienes ante ti una posibilidad real de "
-              ),
-              _c("b", [_vm._v("desarrollar tu carrera")]),
-              _vm._v(" y acceder a "),
-              _c("b", [_vm._v("nuevas oportunidades de trabajo")]),
-              _vm._v(".\n                ")
-            ]),
+            _c(
+              "p",
+              { staticClass: "text-xl md:text-2xl leading-normal mb-4" },
+              [
+                _vm._v("\n                    Hoy "),
+                _c("b", [_vm._v("el talento")]),
+                _vm._v(
+                  " es un elemento central en las empresas, y para muchas se está volviendo algo "
+                ),
+                _c("b", [_vm._v("escaso")]),
+                _vm._v(
+                  ". Lo que significa que tienes ante ti una posibilidad real de "
+                ),
+                _c("b", [_vm._v("desarrollar tu carrera")]),
+                _vm._v(" y acceder a "),
+                _c("b", [_vm._v("nuevas oportunidades de trabajo")]),
+                _vm._v(".\n                ")
+              ]
+            ),
             _vm._v(" "),
             _c(
               "p",
@@ -40471,16 +40582,33 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
+            _c(
+              "p",
+              { staticClass: "text-xl md:text-2xl leading-normal mb-4" },
+              [
+                _vm._v(
+                  "\n                    Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.\n                "
+                )
+              ]
+            ),
+            _vm._v(" "),
             _c("p", { staticClass: "text-xl md:text-2xl leading-normal" }, [
+              _vm._v("\n                    Por último, nos vemos desde el "),
+              _c("b", { staticClass: "underline" }, [
+                _vm._v("27 al 29 de Agosto")
+              ]),
               _vm._v(
-                "\n                    Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.\n                "
+                " en Valdivia para una nueva versión de 9punto5.\n                "
               )
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "flex flex-col md:flex-row mt-12" }, [
               _c(
                 "div",
-                { staticClass: "w-full md:w-1/2 text-center mb-8 md:mb-0" },
+                {
+                  staticClass:
+                    "w-full md:w-1/2 text-left md:text-center mb-8 md:mb-0"
+                },
                 [
                   _c(
                     "button",
@@ -40500,23 +40628,27 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c("div", { staticClass: "w-full md:w-1/2 text-center" }, [
-                _c(
-                  "button",
-                  {
-                    staticClass: "button-indigo",
-                    attrs: {
-                      onclick:
-                        "window.location.href='https://vimeo.com/9punto5/videos'"
-                    }
-                  },
-                  [
-                    _vm._v(
-                      "\n                            Ver charlas versión 2019\n                        "
-                    )
-                  ]
-                )
-              ])
+              _c(
+                "div",
+                { staticClass: "w-full md:w-1/2 text-left md:text-center" },
+                [
+                  _c(
+                    "button",
+                    {
+                      staticClass: "button-indigo",
+                      attrs: {
+                        onclick:
+                          "window.location.href='https://vimeo.com/9punto5/videos'"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                            Ver charlas versión 2019\n                        "
+                      )
+                    ]
+                  )
+                ]
+              )
             ])
           ])
         ]
@@ -40538,12 +40670,7 @@ var staticRenderFns = [
       _c("br"),
       _c("br"),
       _vm._v(
-        "\n                9punto se nutre constantemente con estos apoyos y ha creado una comunidad de más de 3.000 personas apoyando el trabajo remoto."
-      ),
-      _c("br"),
-      _c("br"),
-      _vm._v(
-        "\n                ¿Te gustaría ser un auspiciador? Envíanos un mensaje para mostrarte lo que podemos lograr juntos.\n            "
+        "\n                9punto se nutre constantemente con estos apoyos y ha creado una comunidad de más de 3.000 personas apoyando el trabajo remoto.\n            "
       )
     ])
   }

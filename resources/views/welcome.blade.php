@@ -40,55 +40,100 @@
     </head>
     <body>
         <div id="app">
-            <header class="bg-n5_purple_light py-4 flex flex-col md:flex-row px-8 shadow-lg">
-                <h1 class="mr-0 md:mr-8 flex justify-center">
-                    <a href="/">
-                        <img src="{{ asset('img/9punto5.png') }}" alt="9punto5" height="40" class="h-12">
-                    </a>
-                </h1>
-                <ul class="flex flex-col md:flex-row items-center mt-6 md:mt-0">
-                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
-                        <a
-                            target="_blank"
-                            class="nav-link"
-                            href="https://podcast.9punto5.cl"
-                        >PODCAST</a>
-                    </li>
-                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
-                        <a
-                            target="_blank"
-                            class="nav-link"
-                            href="https://blog.9punto5.cl"
-                        >BLOG</a>
-                    </li>
-                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
-                        <a
-                            target="_blank"
-                            class="nav-link"
-                            href="https://2016.9punto5.cl"
-                        >2016</a>
-                    </li>
-                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
-                        <a
-                            target="_blank"
-                            class="nav-link"
-                            href="https://2017.9punto5.cl"
-                        >2017</a>
-                    </li>
-                    <li class="mr-0 md:mr-4 mb-4 md:mb-0">
-                        <a
-                            target="_blank"
-                            class="nav-link"
-                            href="https://2018.9punto5.cl"
-                        >2018</a>
-                    </li>
-                    <li class="">
-                        <a target="_blank" class="nav-link" href="https://2019.9punto5.cl"
-                        >2019</a>
-                    </li>
-                </ul>
+            <header class="bg-n5_purple_lighter py-4 px-8 shadow-lg">
+                <div class="container mx-auto flex flex-col md:flex-row">
+                    <h1 class="mr-0 md:mr-8 flex justify-center">
+                        <a href="/">
+                            <img src="{{ asset('img/9punto5.png') }}" alt="9punto5" height="40" class="h-12">
+                        </a>
+                    </h1>
+                    <ul class="flex flex-col md:flex-row items-center mt-6 md:mt-0">
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="#services"
+                            >SERVICIOS</a>
+                        </li>
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="https://blog.9punto5.cl"
+                            >BLOG</a>
+                        </li>
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="https://webinar.9punto5.cl/"
+                            >WEBINAR</a>
+                        </li>
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="https://2016.9punto5.cl"
+                            >2016</a>
+                        </li>
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="https://2017.9punto5.cl"
+                            >2017</a>
+                        </li>
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="https://2018.9punto5.cl"
+                            >2018</a>
+                        </li>
+                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                            <a target="_blank" class="nav-link" href="https://2019.9punto5.cl"
+                            >2019</a>
+                        </li>
+                        <li class="">
+                            <a
+                                target="_blank"
+                                class="nav-link"
+                                href="https://podcast.9punto5.cl"
+                            >PODCAST</a>
+                        </li>
+                    </ul>
+                </div>
+
             </header>
             <div class="flex-1">
+
+                <!-- Hero -->
+                <div class="bg-n5_purple_dark pb-16">
+                    <div class="container mx-auto px-8 md:px-0 text-left">
+                        <div class="h-16 md:h-32"></div>
+                        <h2 class="mb-2 font-bold text-white text-5xl leading-tight">
+                            Ayudamos a personas y a empresas <br><span class="text-n5_pink">a trabajar mejor</span>
+                        </h2>
+                        <h4 class="text-white font-bold text-xl">
+                            Desarrolla tus habilidades para el <span class="text-n5_indigo">futuro del trabajo</span>
+                        </h4>
+                        <div class="h-24"></div>
+                        <div class="flex justify-end">
+                            <div class="w-full md:w-1/3 bg-n5_pink py-3 text-white font-bold text-left md:text-center px-4 md:px-0">
+                                <p>ANUNCIO: Regístrate a nuestro próximo
+                                    <a class="underline text-n5_indigo" target="_blank" href="https://webinar.9punto5.cl/">webinar</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Blog -->
+                <div class="bg-white">
+                    <div class="container mx-auto">
+                        
+                    </div>
+                </div>
+
                 <helloworld path="{{ asset('') }}"/>
             </div>
             <footer class="py-8 flex flex-col md:flex-row px-8 md:px-0" style="background: linear-gradient(180deg,#392172 0,#392172 .52%,#352e3b 100%)">
