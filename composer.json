@@ -10,6 +10,8 @@
     "require": {
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
+        "gentor/activecampaign": "^1.0",
+        "guzzlehttp/guzzle": "^6.5",
         "laravel/framework": "^6.2",
         "laravel/tinker": "^2.0"
     },

@@ -59,13 +59,6 @@
                             <a
                                 target="_blank"
                                 class="nav-link"
-                                href="https://blog.9punto5.cl"
-                            >BLOG</a>
-                        </li>
-                        <li class="mr-0 md:mr-4 mb-4 md:mb-0">
-                            <a
-                                target="_blank"
-                                class="nav-link"
                                 href="https://webinar.9punto5.cl/"
                             >WEBINAR</a>
                         </li>
@@ -127,14 +120,13 @@
                     </div>
                 </div>
 
-                <!-- Blog -->
-                <div class="bg-white">
-                    <div class="container mx-auto">
-                        
-                    </div>
+                <div>
+                    <blog />
                 </div>
 
-                <helloworld path="{{ asset('') }}"/>
+                <div>
+                    <helloworld path="{{ asset('') }}"/>
+                </div>
             </div>
             <footer class="py-8 flex flex-col md:flex-row px-8 md:px-0" style="background: linear-gradient(180deg,#392172 0,#392172 .52%,#352e3b 100%)">
                 <div class="w-full md:w-1/2 pr-12 mb-4 md:mb-0">
