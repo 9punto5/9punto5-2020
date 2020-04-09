@@ -19,7 +19,7 @@
                 </li>
             </ul>
             <div class="text-center">
-                <button onclick="location.href='https://blog.9punto5.cl/'" class="rounded-full px-4 py-3 border border-n5_pink text-n5_pink uppercase">
+                <button onclick="location.href='https://blog.9punto5.cl/'" class="font-bold rounded-full px-4 py-3 border border-n5_pink text-n5_pink uppercase hover:bg-n5_pink hover:text-white">
                     Leer más artículos
                 </button>
             </div>
