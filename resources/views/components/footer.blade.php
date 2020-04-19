@@ -3,7 +3,7 @@
         <img src="{{ asset('img/footer.png') }}" />
     </div>
     <div class="w-full md:w-1/2 text-white">
-        <h3 class="text-xl mb-4 text-n5_indigo font-bold">Se parte de 9punto5</h3>
+        <h3 class="text-xl mb-4 text-n5_indigo">Se parte de 9punto5</h3>
         <p class="w-full md:w-3/4 mb-4">
             Desde 2016 organizamos la principal conferencia sobre Trabajo Remoto y Tecnología de Latinoamérica.
         </p>
@@ -12,8 +12,8 @@
             Apoyamos a organizaciones a implementar con éxito el trabajo remoto, entendiendo que un factor clave es acompañar y guiar el cambio de “mindset” asociado al trabajo remoto, así como adoptar las mejores prácticas para esta modalidad.
         </p>
 
-        <h4 class="text-n5_pink font-bold mt-4 mb-8">Síguenos en</h4>
-        <ul class="flex flex-row mb-8">
+        <h4 class="text-n5_pink font-bold mt-4">Síguenos en</h4>
+        <ul class="flex flex-row my-8">
 
             <li class="mb-6 md:mb-0 mr-6">
                 <a target="_blank" href="https://twitter.com/9punto5_">

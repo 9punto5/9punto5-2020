@@ -11,6 +11,10 @@
     color: #2c3e50;
 }
 
+h2, h3 {
+    @apply font-bold;
+}
+
 .nav-link {
     @apply font-bold text-white border-b-0;
 }

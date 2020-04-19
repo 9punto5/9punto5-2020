@@ -10,6 +10,7 @@ module.exports = {
                 n5_purple_light: '#622AB9',
                 n5_purple: '#5926B3',
                 n5_purple_dark: '#431B9C',
+                n5_purple_darker: '#43007B',
                 n5_indigo: '#00e5c8',
                 n5_pink: '#ff3b67'
             }
