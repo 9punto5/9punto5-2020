@@ -17,7 +17,7 @@
                 En medio de la crisis debido al coronavirus estamos realizando un esfuerzo por liberar conocimiento de calidad que te ayude a ti y a tu organización a trabajar mejor y por supuesto a aplicar las mejores prácticas para el trabajo remoto.
             </p>
 
-            <button onclick="location.href='https://www.notion.so/9punto5/Knowledge-Base-by-9punto5-3eaa473cdc5048a9bda8a1ab32edf3e1'" class="button uppercase cursor-pointer bg-n5_pink hover:bg-white hover:text-n5_pink text-white">
+            <button onclick="location.href='https://www.notion.so/9punto5/Knowledge-Base-by-9punto5-3eaa473cdc5048a9bda8a1ab32edf3e1'" class="button button-pink">
                 Acceder
             </button>
         </div>
