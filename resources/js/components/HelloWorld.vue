@@ -1,42 +1,32 @@
 <template>
     <content>
-        <div class="bg-n5_purple">
+        <div class="bg-white">
             <div class="container mx-auto py-12 text-white flex flex-row px-8 md:px-0">
                 <div class="w-ful px-2">
-                    <h2 class="font-bold text-3xl mb-4">¡Gracias por la cuarta versión!</h2>
-                    <h3 class="text-2xl mb-8">2019 fue la mejor versión de la conferencia hasta ahora.</h3>
+                    <span class="text-n5_pink font-bold leading-none">Comunidad</span>
+                    <h2 class="font-bold text-4xl text-n5_purple mb-4">Conferencia</h2>
+                    <p class="text-xl text-gray-800 mb-4">
+                        Desde 2016, reunimos a una comunidad en la principal conferencia anual sobre trabajo remoto y tecnología de Latinoamérica. Nos han acompañado más de 100 speakers y compañías referentes a nivel internacional compartiendo sus conocimientos y experiencias.
+                    </p>
+
+                    <p class="text-xl text-gray-800 mb-12">
+                        Ten una vista general a la última versión.
+                    </p>
 
                     <div class="embed-container">
                         <iframe class="embed-iframe" src="https://player.vimeo.com/video/390838158" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                     </div>
 
-                    <h4 class="font-bold text-xl md:text-2xl mt-8 mb-4">One more thing</h4>
-
-                    <p class="text-xl md:text-2xl leading-normal mb-4">
-                        Hoy <b>el talento</b> es un elemento central en las empresas, y para muchas se está volviendo algo <b>escaso</b>. Lo que significa que tienes ante ti una posibilidad real de <b>desarrollar tu carrera</b> y acceder a <b>nuevas oportunidades de trabajo</b>.
-                    </p>
-
-                    <p class="text-xl md:text-2xl leading-normal mb-4">
-                        Queremos <b>ayudarte a ser un talento</b> y darte <b>acceso a nuevas posibilidades</b>.
-                    </p>
-
-                    <p class="text-xl md:text-2xl leading-normal mb-4">
-                        Estamos generando vínculos con empresas como Amazon, Evernote, Walmart, Zenta Group y compañías que son parte de MITI que están buscando personas.
-                    </p>
-
-                    <p class="text-xl md:text-2xl leading-normal">
-                        Por último, nos vemos desde el <b class="underline">27 al 29 de Agosto</b> en Valdivia para una nueva versión de 9punto5.
-                    </p>
-
                     <div class="flex flex-col md:flex-row mt-12">
+
                         <div class="w-full md:w-1/2 text-left md:text-center mb-8 md:mb-0">
-                            <button class="button-pink" onclick="window.location.href='https://welcu.com/9punto5/9punto5-2020'">
-                                Tickets versión 2020
+                            <button class="button-indigo" onclick="window.location.href='https://2019.9punto5.cl'">
+                                Más sobre la conferencia
                             </button>
                         </div>
                         <div class="w-full md:w-1/2 text-left md:text-center">
-                            <button class="button-indigo" onclick="window.location.href='https://vimeo.com/9punto5/videos'">
-                                Ver charlas versión 2019
+                            <button class="button-pink" onclick="window.location.href='https://vimeo.com/9punto5/videos'">
+                                Ver charlas anteriores
                             </button>
                         </div>
                     </div>
