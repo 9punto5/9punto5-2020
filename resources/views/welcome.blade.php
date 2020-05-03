@@ -73,14 +73,16 @@
                     <x-knowledge_base></x-knowledge_base>
                 </div>
 
-
+                <div id="newsletter">
+                    <x-newsletter></x-newsletter>
+                </div>
 
                 <div id="services">
                     <x-services></x-services>
                 </div>
 
                 <div>
-                    <helloworld path="{{ asset('') }}"/>
+                    <x-conference></x-conference>
                 </div>
             </div>
 
