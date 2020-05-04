@@ -32,47 +32,4 @@
             </div>
         </div>
     </div>
-
-    <div class="bg-white">
-        <div class="container mx-auto py-12 text-white px-8 md:px-0">
-            <h4 class="font-bold text-2xl mb-4 text-n5_purple">¿Te gustaría ser sponsor de 9punto5?</h4>
-
-            <p class="text-xl leading-normal text-black mb-4">
-                Desde el 2016, hemos tenido múltiples empresas apoyando nuestra misión a través de auspicios.<br>
-                Sin ellas, sería imposible la realización de esta conferencia.<br><br>
-                9punto se nutre constantemente con estos apoyos y ha creado una comunidad de más de 3.000 personas apoyando el trabajo remoto.
-            </p>
-
-            <h4 class="text-n5_pink text-xl font-bold">Algunas marcas que han confiado en 9punto5</h4>
-
-            <ul class="mt-4 mb-6 flex flex-col md:flex-row items-center">
-                <li class="mr-0 md:mr-8">
-                    <img :src="{{ asset('img/evernote.png') }}" alt="Evernote" width="160">
-                </li>
-                <li class="mt-8 md:mt-0 mr-0 md:mr-8">
-                    <img :src="{{ asset('img/doist.png') }}" alt="Doist" width="130">
-                </li>
-                <li class="mt-8 md:mt-0 mr-0 md:mr-8">
-                    <img :src="{{ asset('img/google.png') }}" alt="Google Developers" width="160">
-                </li>
-                <li class="mt-8 md:mt-0 mr-0 md:mr-8">
-                    <img :src="{{ asset('img/walmart.png') }}" alt="Walmart Chile" width="160">
-                </li>
-                <li class="mt-8 md:mt-0 mr-0 md:mr-8">
-                    <img :src="{{ asset('img/cornershop.png') }}" alt="Cornershop" width="160">
-                </li>
-                <li class="mt-8 md:mt-0">
-                    <img :src="{{ asset('img/compara.png') }}" alt="Compara Online" width="160">
-                </li>
-            </ul>
-
-            <p class="text-xl leading-normal text-black mb-4">
-                ¿Te gustaría ser un sponsor? Envíanos un mensaje para mostrarte lo que podemos lograr juntos.
-            </p>
-
-            <div class="w-full md:w-2/5">
-
-            </div>
-        </div>
-    </div>
 </div>
