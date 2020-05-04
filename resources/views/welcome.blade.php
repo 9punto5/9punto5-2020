@@ -25,7 +25,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
 @stack('scripts')
 
@@ -99,6 +99,10 @@
 
             <div>
                 <x-brands></x-brands>
+            </div>
+
+            <div>
+                <x-testimonials></x-testimonials>
             </div>
 
             <div id="sponsor">

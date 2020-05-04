@@ -13,11 +13,11 @@
                 </p>
             </div>
 
-            <div class="flex flex-row">
-                <div class="w-1/2 ">
+            <div class="flex flex-col md:flex-row mb-12 md:mb-0">
+                <div class="w-full md:w-1/2 ">
                     <img class="mx-auto" src="{{ asset('img/world.png') }}" alt="Auspiciador">
                 </div>
-                <div class="w-1/2">
+                <div class="w-full md:w-1/2">
                     <h4 class="text-3xl text-white font-bold mb-8"><span class="text-n5_indigo">+ 100</span> speakers y compañías</h4>
                     <h4 class="text-3xl text-white font-bold"><span class="text-n5_indigo">+ 10</span> países presentes</h4>
                 </div>
@@ -28,9 +28,6 @@
                     Quiero auspiciar la conferencia
                 </a>
             </div>
-
-
-
         </div>
     </div>
 </div>
