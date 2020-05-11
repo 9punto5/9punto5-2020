@@ -28,30 +28,56 @@
                         href="#knowledge_base"
                     >KNOWLEDGE BASE</a>
                 </li>
-                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                <li class="hidden md:block md:mr-0 md:mr-4 mb-4 md:mb-0">
+                    <dropdown width="150px">
+                        <template v-slot:trigger>
+                            <a
+                                class="nav-link"
+                                href="#"
+                            >CONFERENCIA</a>
+                        </template>
+
+                        <ul class="flex flex-col">
+                            <li class="mb-4">
+                                <a @click="isOpen = false" class="nav-link" href="https://2016.9punto5.cl" target="_blank">EDICIÓN 2016</a>
+                            </li>
+                            <li class="mb-4">
+                                <a @click="isOpen = false" class="nav-link" href="https://2017.9punto5.cl" target="_blank">EDICIÓN 2017</a>
+                            </li>
+                            <li class="mb-4">
+                                <a @click="isOpen = false" class="nav-link" href="https://2018.9punto5.cl" target="_blank">EDICIÓN 2018</a>
+                            </li>
+                            <li>
+                                <a @click="isOpen = false" class="nav-link" href="https://2019.9punto5.cl" target="_blank">EDICIÓN 2019</a>
+                            </li>
+                        </ul>
+                    </dropdown>
+                </li>
+
+                <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
                     <a
                         target="_blank"
                         class="nav-link"
                         href="https://2016.9punto5.cl"
-                    >2016</a>
+                    >EDICIÓN 2016</a>
                 </li>
-                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
                     <a
                         target="_blank"
                         class="nav-link"
                         href="https://2017.9punto5.cl"
-                    >2017</a>
+                    >EDICIÓN 2017</a>
                 </li>
-                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
                     <a
                         target="_blank"
                         class="nav-link"
                         href="https://2018.9punto5.cl"
-                    >2018</a>
+                    >EDICIÓN 2018</a>
                 </li>
-                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+                <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
                     <a target="_blank" class="nav-link" href="https://2019.9punto5.cl"
-                    >2019</a>
+                    >EDICIÓN 2019</a>
                 </li>
                 <li class="">
                     <a
