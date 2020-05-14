@@ -7,9 +7,9 @@
             </div>
             <div class="w-full md:w-3/5">
                 <div style="text-align: left;">
-                    <form method="POST" action="https://9punto5.activehosted.com/proc.php" id="_form_30_" class="_form _form_30 _inline-form _inline-style _dark" novalidate>
-                        <input type="hidden" name="u" value="30" />
-                        <input type="hidden" name="f" value="30" />
+                    <form method="POST" action="https://9punto5.activehosted.com/proc.php" id="_form_55_" class="_form _form_55 _inline-form _inline-style _dark" novalidate>
+                        <input type="hidden" name="u" value="55" />
+                        <input type="hidden" name="f" value="55" />
                         <input type="hidden" name="s" />
                         <input type="hidden" name="c" value="0" />
                         <input type="hidden" name="m" value="0" />
@@ -31,7 +31,7 @@
                                 </div>
                             </div>
                             <div class="_button-wrapper _inline-style">
-                                <button id="_form_30_submit" class="_submit" type="submit">
+                                <button id="_form_55_submit" class="_submit" type="submit">
                                     Contacto
                                 </button>
                             </div>
