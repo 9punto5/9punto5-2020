@@ -8,7 +8,7 @@
                     Desde 2016, reunimos a una comunidad en <b>la principal conferencia anual sobre trabajo remoto y tecnología de Latinoamérica</b>. A lo largo de los años nos han acompañado más de 100 speakers y compañías referentes a nivel internacional compartiendo sus conocimientos y experiencias.
                 </p>
                 <p class="text-xl text-gray-800 mb-4">
-					Esta confercia ha sido cada año de forma presencial en la ciudad de Valdivia, al sur del mundo y ¡ha sido una muy buena experiencia! que puedes ver en el video a continuación.	
+					Esta conferencia ha sido cada año de forma presencial en la ciudad de Valdivia, al sur del mundo y ¡ha sido una muy buena experiencia! que puedes ver en el video a continuación.	
 				</p>
                 <p class="text-xl text-gray-800 mb-4">
 					Ahora, el COVID-19 ha puesto a millones de personas a trabajar por primera vez la modalidad de trabajo remoto, en un contexto forzoso. Con esto se nos hace difícil pensar en reunir a cientos de personas en un mismo lugar físico, como ha sido en los años anteriores, por lo que decidimos crear la primera versión online de 9punto5.
