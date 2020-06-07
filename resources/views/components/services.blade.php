@@ -3,7 +3,7 @@
         <div class="w-full md:w-3/4 text-center md:text-left px-8 md:px-0">
             <h2 class="text-5xl text-n5_indigo font-bold mb-8">Servicios a empresas</h2>
             <p class="text-white text-xl mb-16">
-                En medio de la crisis debido al coronavirus estamos realizando un esfuerzo por liberar conocimiento de calidad que te ayude a ti y a tu organización a trabajar mejor y por supuesto a aplicar las mejores prácticas para el trabajo remoto.
+                Apoyamos a organizaciones a implementar con éxito el trabajo remoto, entendiendo que un factor clave es acompañar y guiar el cambio de “mindset” asociado al trabajo remoto, así como adoptar las mejores prácticas para esta modalidad.
             </p>
 
             <a href=mailto:hola@9punto5.cl" class="button button-pink">
