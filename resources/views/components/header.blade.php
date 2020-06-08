@@ -82,6 +82,10 @@
                     <a target="_blank" class="nav-link" href="https://2019.9punto5.cl"
                     >EDICIÓN 2019</a>
                 </li>
+                <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
+                    <a target="_blank" class="nav-link" href="https://www.conferencia.cl"
+                    >ONLINE 2020</a>
+                </li>
                 <li class="">
                     <a
                         target="_blank"
