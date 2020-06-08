@@ -47,7 +47,7 @@
                             <li class="mb-4">
                                 <a @click="isOpen = false" class="nav-link" href="https://2018.9punto5.cl" target="_blank">EDICIÓN 2018</a>
                             </li>
-                            <li>
+                            <li class="mb-4">
                                 <a @click="isOpen = false" class="nav-link" href="https://2019.9punto5.cl" target="_blank">EDICIÓN 2019</a>
                             </li>
                             <li>
