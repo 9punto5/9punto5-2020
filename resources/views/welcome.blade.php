@@ -63,14 +63,6 @@
                         Desarrolla tus habilidades para el <span class="text-n5_indigo">futuro del trabajo</span>
                     </h4>
                     <div class="h-24"></div>
-                    <div class="flex justify-end">
-                        <div
-                            class="w-full md:w-1/3 bg-n5_pink py-3 text-white font-bold text-left md:text-center px-4 md:px-0">
-                            <p>ANUNCIO: Regístrate a nuestro próximo
-                                <a class="underline text-n5_indigo" target="_blank" href="https://webinar.9punto5.cl/">webinar</a>
-                            </p>
-                        </div>
-                    </div>
                 </div>
             </div>
 
