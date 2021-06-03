@@ -51,7 +51,10 @@
                                 <a @click="isOpen = false" class="nav-link" href="https://2019.9punto5.cl" target="_blank">EDICIÓN 2019</a>
                             </li>
                             <li>
-                                <a @click="isOpen = false" class="nav-link" href="https://www.conferencia.cl/" target="_blank">ONLINE 2020</a>
+                                <a @click="isOpen = false" class="nav-link" href="https://2020.conferencia.cl/" target="_blank">EDICIÓN 2020</a>
+                            </li>
+                            <li>
+                                <a @click="isOpen = false" class="nav-link" href="https://www.conferencia.cl/" target="_blank">ONLINE 2021</a>
                             </li>
                         </ul>
                     </dropdown>
