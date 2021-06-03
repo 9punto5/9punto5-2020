@@ -24,7 +24,7 @@
             </div>
 
             <div class="text-right">
-                <a href=https://conferencia.cl/sponsorship-interest class="button button-pink">
+                <a href=https://conferencia.cl/sponsorship-interest class="button button-pink block md:inline text-center">
                     Quiero auspiciar la conferencia
                 </a>
             </div>
