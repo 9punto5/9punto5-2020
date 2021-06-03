@@ -97,7 +97,7 @@
         </div>
 
         <div class="mx-auto md:mx-0">
-            <a class="block text-center button button-pink w-48" href="#footer">HABLEMOS</a>
+            <a class="block text-center button button-pink w-48" href="https://conferencia.cl/sponsorship-interest">HABLEMOS</a>
         </div>
 
 
