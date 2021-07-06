@@ -50,7 +50,7 @@
                             <li class="mb-4">
                                 <a @click="isOpen = false" class="nav-link" href="https://2019.9punto5.cl" target="_blank">EDICIÓN 2019</a>
                             </li>
-                            <li>
+                            <li class="mb-4">
                                 <a @click="isOpen = false" class="nav-link" href="https://2020.conferencia.cl/" target="_blank">EDICIÓN 2020</a>
                             </li>
                             <li>
