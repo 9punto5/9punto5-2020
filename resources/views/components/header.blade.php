@@ -15,14 +15,14 @@
                         href="#services"
                     >SERVICIOS</a>
                 </li>
-                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+<!--                 <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                     <a
                         target="_blank"
                         class="nav-link"
                         href="https://webinar.9punto5.cl/"
                     >WEBINAR</a>
                 </li>
-                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
+ -->                <li class="mr-0 md:mr-4 mb-4 md:mb-0">
                     <a
                         class="nav-link"
                         href="#knowledge_base"
@@ -54,7 +54,7 @@
                                 <a @click="isOpen = false" class="nav-link" href="https://2020.conferencia.cl/" target="_blank">EDICIÓN 2020</a>
                             </li>
                             <li>
-                                <a @click="isOpen = false" class="nav-link" href="https://www.conferencia.cl/" target="_blank">ONLINE 2021</a>
+                                <a @click="isOpen = false" class="nav-link" href="https://conferencia.cl/" target="_blank">ONLINE 2021</a>
                             </li>
                         </ul>
                     </dropdown>
@@ -86,8 +86,12 @@
                     >EDICIÓN 2019</a>
                 </li>
                 <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
-                    <a target="_blank" class="nav-link" href="https://www.conferencia.cl"
-                    >ONLINE 2020</a>
+                    <a target="_blank" class="nav-link" href="https://2020.conferencia.cl"
+                    >EDICIÓN 2020</a>
+                </li>
+                <li class="md:hidden mr-0 md:mr-4 mb-4 md:mb-0">
+                    <a target="_blank" class="nav-link" href="https://conferencia.cl"
+                    >ONLINE 2021</a>
                 </li>
                 <li class="">
                     <a
@@ -100,10 +104,8 @@
         </div>
 
         <div class="mx-auto md:mx-0">
-            <a class="block text-center button button-pink w-48" href="https://conferencia.cl/sponsorship-interest">HABLEMOS</a>
+            <a class="block text-center button button-pink w-48" href="https://conferencia.cl/sponsorship-interest">AUSPICIO 2021</a>
         </div>
-
-
     </div>
 
 </header>
